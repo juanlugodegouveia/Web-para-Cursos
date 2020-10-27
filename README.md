@@ -1,12 +1,12 @@
-# Diseño Web para cursos - Recreando página de Udemy.
+# Web Design for Courses - Recreating Udemy page.
 
-Diseño Web para cursos, en donde se recrea la página web de Udemy creado con CSS Grid y Flexbox, utilizando sass y gulp.
+Web Design for courses, where the Udemy web page created with CSS Grid and Flexbox is recreated, using sass and gulp.
 
-Un diseño simple e interactivo con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+A simple and interactive design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
-El diseño no es totalmente responsivo, por como se indica anteriormente es para tener una idea del diseño y codigo, los media queries deberan ser escritos a gusto.
+The design is not fully responsive, as indicated above is to get an idea of the design and code, the media queries should be written at ease.
 
-Vista Previa: https://juanlugodegouveia.github.io/Web-para-Cursos/.
+Preview: https://juanlugodegouveia.github.io/Web-para-Ccursos/.
 
 ## Copyright
 
